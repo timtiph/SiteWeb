@@ -1,5 +1,3 @@
-Documentation
-
 A First Level Header
 ====================
 
